@@ -2,7 +2,7 @@
 
 #### _Project tests Javascript functions for HTML sites, June 1st, 2020_
 
-#### By _**Nikolas Kososik and Johnny Duversaeu**_
+#### By _**Nikolas Kososik and Johnny Duverseau**_
 
 ## Description
 
@@ -32,4 +32,4 @@ _Project uses HTML, CSS stylings, Javascript, and Github._
 
 ### License: MIT
 
-Copyright (c) 2020 **_Nikolas Kososik and Johnny Duversaeu, students at Epicodus_**
+Copyright (c) 2020 **_Nikolas Kososik and Johnny Duverseau, students at Epicodus_**
